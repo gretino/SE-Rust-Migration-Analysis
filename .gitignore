@@ -218,3 +218,6 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Collected data: raw API cache is large and rebuildable
+data/raw/

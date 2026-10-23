@@ -1,0 +1,205 @@
+﻿"repo","tag","name","published_at","is_prerelease"
+"Qiskit/qiskit","0.3","QISKit SDK 0.3","2017-11-10T16:48:11Z",False
+"Qiskit/qiskit","0.3.3","QISKit SDK 0.3.3","2017-08-25T09:31:31Z",False
+"Qiskit/qiskit","0.3.4","QISKit SDK 0.3.4","2017-08-28T11:54:46Z",False
+"Qiskit/qiskit","0.3.5","QISKit SDK 0.3.5","2017-08-31T09:10:23Z",False
+"Qiskit/qiskit","0.3.6","QISKit SDK 0.3.6","2017-09-15T12:56:04Z",False
+"Qiskit/qiskit","0.3.7","QISKit SDK 0.3.7","2017-10-17T15:54:32Z",False
+"Qiskit/qiskit","0.3.8","QISKit SDK 0.3.8","2017-10-25T09:00:09Z",False
+"Qiskit/qiskit","0.3.9","QISKit SDK 0.3.9","2017-11-03T10:35:53Z",False
+"Qiskit/qiskit","0.3.10","QISKit SDK 0.3.10","2017-11-17T17:28:10Z",False
+"Qiskit/qiskit","0.3.11","QISKit SDK 0.3.11","2017-12-04T20:53:57Z",False
+"Qiskit/qiskit","0.3.12","QISKit SDK 0.3.12","2017-12-07T20:49:04Z",False
+"Qiskit/qiskit","0.3.13","QISKit SDK 0.3.13","2017-12-18T10:23:55Z",False
+"Qiskit/qiskit","0.3.14","QISKit SDK 0.3.14","2017-12-20T09:56:26Z",False
+"Qiskit/qiskit","0.3.15","QISKit SDK 0.3.15","2017-12-22T20:36:33Z",False
+"Qiskit/qiskit","0.3.16","QISKit SDK 0.3.16","2017-12-22T21:20:28Z",False
+"Qiskit/qiskit","0.4.0","QISKit SDK 0.4.0","2018-01-08T11:44:11Z",False
+"Qiskit/qiskit","0.4.2","QISKit SDK 0.4.2","2018-01-08T12:34:14Z",False
+"Qiskit/qiskit","0.4.3","QISKit SDK 0.4.3","2018-01-08T17:10:16Z",False
+"Qiskit/qiskit","0.4.4","QISKit SDK 0.4.4","2018-01-09T18:44:55Z",False
+"Qiskit/qiskit","0.4.6","QISKit SDK 0.4.6","2018-01-22T14:32:13Z",False
+"Qiskit/qiskit","0.4.7","QISKit SDK 0.4.7","2018-01-26T12:01:27Z",False
+"Qiskit/qiskit","0.4.8","QISKit SDK 0.4.8","2018-01-29T10:03:51Z",False
+"Qiskit/qiskit","0.4.9","QISKit SDK 0.4.9","2018-02-12T15:04:51Z",False
+"Qiskit/qiskit","0.4.10","QISKit SDK 0.4.10","2018-03-06T14:54:15Z",False
+"Qiskit/qiskit","0.4.11","QISKit SDK 0.4.11","2018-03-13T19:18:09Z",False
+"Qiskit/qiskit","0.4.12","QISKit SDK 0.4.12","2018-04-11T10:44:09Z",False
+"Qiskit/qiskit","0.4.13","QISKit SDK 0.4.13","2018-04-16T18:34:10Z",False
+"Qiskit/qiskit","0.4.14","QISKit SDK 0.4.14","2018-04-18T16:37:18Z",False
+"Qiskit/qiskit","0.4.15","QISKit SDK 0.4.15","2018-05-07T18:18:05Z",False
+"Qiskit/qiskit","0.5.0","QISKit SDK 0.5.0","2018-05-11T20:41:26Z",False
+"Qiskit/qiskit","0.5.1","QISKit SDK 0.5.1","2018-05-15T08:53:51Z",False
+"Qiskit/qiskit","0.5.2","QISKit SDK 0.5.2","2018-05-21T13:50:23Z",False
+"Qiskit/qiskit","0.5.3","QISKit SDK 0.5.3","2018-05-29T10:28:26Z",False
+"Qiskit/qiskit","0.5.4","QISKit SDK 0.5.4","2018-06-11T13:18:17Z",False
+"Qiskit/qiskit","0.5.5","QISKit SDK 0.5.5","2018-07-02T10:00:42Z",False
+"Qiskit/qiskit","0.5.6","QISKit SDK 0.5.6","2018-07-06T10:56:18Z",False
+"Qiskit/qiskit","0.5.7","Qiskit Terra 0.5.7","2018-07-19T13:44:35Z",False
+"Qiskit/qiskit","0.6.0","Qiskit Terra 0.6.0","2018-10-04T10:02:24Z",False
+"Qiskit/qiskit","0.6.1","Qiskit Terra 0.6.1","2018-10-07T08:54:35Z",False
+"Qiskit/qiskit","0.7.0","Qiskit Terra 0.7.0","2018-12-19T12:39:48Z",False
+"Qiskit/qiskit","0.7.1","Qiskit Terra 0.7.1","2019-03-04T21:30:17Z",False
+"Qiskit/qiskit","0.7.2","Qiskit Terra 0.7.2","2019-05-01T15:08:59Z",False
+"Qiskit/qiskit","0.8.0","Qiskit Terra 0.8.0","2019-05-02T21:01:47Z",False
+"Qiskit/qiskit","0.8.1","Qiskit Terra 0.8.1","2019-05-29T18:55:30Z",False
+"Qiskit/qiskit","0.8.2","Qiskit Terra 0.8.2","2019-06-14T21:09:46Z",False
+"Qiskit/qiskit","0.9.0","Qiskit Terra 0.9.0","2019-08-22T15:02:31Z",False
+"Qiskit/qiskit","0.9.1","Qiskit Terra  0.9.1","2019-10-11T16:57:24Z",False
+"Qiskit/qiskit","0.10.0","Qiskit Terra  0.10.0","2019-10-16T15:01:35Z",False
+"Qiskit/qiskit","0.11.0","Qiskit Terra 0.11.0","2019-12-10T04:06:19Z",False
+"Qiskit/qiskit","0.11.1","Qiskit Terra  0.11.1","2020-01-07T20:52:01Z",False
+"Qiskit/qiskit","0.12.0","Qiskit Terra  0.12.0","2020-02-06T21:08:57Z",False
+"Qiskit/qiskit","0.13.0","Qiskit Terra  0.13.0","2020-04-09T21:06:03Z",False
+"Qiskit/qiskit","0.14.0","Qiskit Terra  0.14.0","2020-04-30T20:22:06Z",False
+"Qiskit/qiskit","0.14.1","Qiskit Terra  0.14.1","2020-05-01T13:12:52Z",False
+"Qiskit/qiskit","0.14.2","Qiskit Terra 0.14.2","2020-06-15T20:49:46Z",False
+"Qiskit/qiskit","0.15.0","Qiskit Terra  0.15.0","2020-08-06T17:26:13Z",False
+"Qiskit/qiskit","0.15.1","Qiskit Terra  0.15.1","2020-08-10T17:01:33Z",False
+"Qiskit/qiskit","0.15.2","Qiskit Terra  0.15.2","2020-09-08T17:37:38Z",False
+"Qiskit/qiskit","0.16.0","Qiskit Terra  0.16.0","2020-10-15T21:13:55Z",False
+"Qiskit/qiskit","0.16.1","Qiskit Terra  0.16.1","2020-11-12T17:45:28Z",False
+"Qiskit/qiskit","0.16.2","Qiskit Terra  0.16.2","2021-01-26T17:26:19Z",False
+"Qiskit/qiskit","0.16.3","Qiskit Terra  0.16.3","2021-01-28T19:24:45Z",False
+"Qiskit/qiskit","0.16.4","Qiskit Terra  0.16.4","2021-02-08T17:00:28Z",False
+"Qiskit/qiskit","0.17.0","Qiskit Terra  0.17.0","2021-04-01T15:39:11Z",False
+"Qiskit/qiskit","0.17.1","Qiskit Terra  0.17.1","2021-04-15T17:29:05Z",False
+"Qiskit/qiskit","0.17.2","Qiskit Terra  0.17.2","2021-05-05T15:00:27Z",False
+"Qiskit/qiskit","0.17.3","Qiskit Terra  0.17.3","2021-05-10T22:27:58Z",False
+"Qiskit/qiskit","0.17.4","Qiskit Terra  0.17.4","2021-05-18T20:59:42Z",False
+"Qiskit/qiskit","0.18.0","Qiskit Terra  0.18.0","2021-07-12T19:26:41Z",False
+"Qiskit/qiskit","0.18.1","Qiskit Terra  0.18.1","2021-08-02T19:15:54Z",False
+"Qiskit/qiskit","0.18.2","Qiskit Terra  0.18.2","2021-09-09T20:59:36Z",False
+"Qiskit/qiskit","0.18.3","Qiskit Terra  0.18.3","2021-09-29T11:39:14Z",False
+"Qiskit/qiskit","0.19.0","Qiskit Terra  0.19.0","2021-12-06T19:43:40Z",False
+"Qiskit/qiskit","0.19.1","Qiskit Terra  0.19.1","2021-12-10T14:08:59Z",False
+"Qiskit/qiskit","0.19.2","Qiskit Terra  0.19.2","2022-02-02T13:31:51Z",False
+"Qiskit/qiskit","0.20.0","Qiskit Terra  0.20.0","2022-03-31T20:32:16Z",False
+"Qiskit/qiskit","0.20.1","Qiskit Terra  0.20.1","2022-04-21T19:59:00Z",False
+"Qiskit/qiskit","0.20.2","Qiskit Terra  0.20.2","2022-05-18T14:58:16Z",False
+"Qiskit/qiskit","0.21.0rc1","Qiskit Terra  0.21.0rc1","2022-06-23T19:05:07Z",True
+"Qiskit/qiskit","0.21.0","Qiskit Terra  0.21.0","2022-06-30T16:42:13Z",False
+"Qiskit/qiskit","0.21.1","Qiskit Terra  0.21.1","2022-07-28T11:38:02Z",False
+"Qiskit/qiskit","0.21.2","Qiskit Terra  0.21.2","2022-08-23T20:17:26Z",False
+"Qiskit/qiskit","0.22.0rc1","Qiskit Terra  0.22.0rc1","2022-10-07T16:26:44Z",True
+"Qiskit/qiskit","0.22.0","Qiskit Terra  0.22.0","2022-10-13T18:42:13Z",False
+"Qiskit/qiskit","0.22.1","Qiskit Terra  0.22.1","2022-11-01T22:42:47Z",False
+"Qiskit/qiskit","0.22.2","Qiskit Terra  0.22.2","2022-11-03T23:47:09Z",False
+"Qiskit/qiskit","0.22.3","Qiskit Terra  0.22.3","2022-11-23T19:27:13Z",False
+"Qiskit/qiskit","0.22.4","Qiskit Terra  0.22.4","2023-01-17T12:26:25Z",False
+"Qiskit/qiskit","0.23.0rc1","Qiskit Terra  0.23.0rc1","2023-01-19T22:17:10Z",True
+"Qiskit/qiskit","0.23.0","Qiskit Terra  0.23.0","2023-01-26T21:24:47Z",False
+"Qiskit/qiskit","0.23.1","Qiskit Terra  0.23.1","2023-01-31T19:55:54Z",False
+"Qiskit/qiskit","0.23.2","Qiskit Terra  0.23.2","2023-02-23T13:27:35Z",False
+"Qiskit/qiskit","0.23.3","Qiskit Terra  0.23.3","2023-03-21T18:06:05Z",False
+"Qiskit/qiskit","0.24.0rc1","Qiskit Terra  0.24.0rc1","2023-04-20T20:25:53Z",True
+"Qiskit/qiskit","0.24.0","Qiskit Terra  0.24.0","2023-05-04T18:24:49Z",False
+"Qiskit/qiskit","0.24.1","Qiskit Terra  0.24.1","2023-06-02T01:53:16Z",False
+"Qiskit/qiskit","0.24.2","Qiskit Terra  0.24.2","2023-07-19T17:26:58Z",False
+"Qiskit/qiskit","0.25.0rc1","Qiskit Terra  0.25.0rc1","2023-07-21T15:53:59Z",True
+"Qiskit/qiskit","0.25.0","Qiskit Terra  0.25.0","2023-07-27T21:41:27Z",False
+"Qiskit/qiskit","0.25.1","Qiskit Terra  0.25.1","2023-08-17T21:27:13Z",False
+"Qiskit/qiskit","0.25.2","Qiskit  0.25.2","2023-10-02T19:06:31Z",False
+"Qiskit/qiskit","0.25.2.1","Qiskit  0.25.2.1","2023-10-04T13:07:35Z",False
+"Qiskit/qiskit","0.45.0rc1","Qiskit 0.45.0rc1","2023-10-19T21:38:25Z",True
+"Qiskit/qiskit","0.25.3","Qiskit  0.25.3","2023-10-25T19:17:17Z",False
+"Qiskit/qiskit","0.45.0","Qiskit 0.45.0","2023-11-03T13:08:08Z",False
+"Qiskit/qiskit","0.45.1","Qiskit  0.45.1","2023-11-29T17:00:26Z",False
+"Qiskit/qiskit","1.0.0b1","Qiskit 1.0.0b1","2023-12-01T21:44:10Z",True
+"Qiskit/qiskit","0.45.2","Qiskit  0.45.2","2024-01-18T21:07:25Z",False
+"Qiskit/qiskit","0.45.3","Qiskit  0.45.3","2024-02-01T00:42:27Z",False
+"Qiskit/qiskit","0.46.0","Qiskit  0.46.0","2024-02-01T20:26:30Z",False
+"Qiskit/qiskit","1.0.0rc1","Qiskit 1.0.0rc1","2024-02-02T00:45:13Z",True
+"Qiskit/qiskit","1.0.0","Qiskit 1.0.0","2024-02-15T20:42:34Z",False
+"Qiskit/qiskit","1.0.1","Qiskit 1.0.1","2024-02-22T22:38:26Z",False
+"Qiskit/qiskit","1.0.2","Qiskit 1.0.2","2024-03-08T20:52:14Z",False
+"Qiskit/qiskit","0.46.1","Qiskit  0.46.1","2024-03-08T17:28:01Z",False
+"Qiskit/qiskit","1.1.0rc1","Qiskit 1.1.0rc1","2024-05-03T15:56:51Z",True
+"Qiskit/qiskit","1.1.0","Qiskit 1.1.0","2024-05-16T20:20:53Z",False
+"Qiskit/qiskit","1.1.1","Qiskit 1.1.1","2024-06-21T06:44:24Z",False
+"Qiskit/qiskit","0.46.2","Qiskit  0.46.2","2024-06-20T17:33:14Z",False
+"Qiskit/qiskit","1.2.0rc1","Qiskit  1.2.0rc1","2024-08-01T16:58:46Z",True
+"Qiskit/qiskit","1.1.2","Qiskit  1.1.2","2024-08-09T14:11:48Z",False
+"Qiskit/qiskit","1.2.0","Qiskit  1.2.0","2024-08-15T20:41:15Z",False
+"Qiskit/qiskit","1.3.0b1","Qiskit  1.3.0b1","2024-09-11T21:07:02Z",True
+"Qiskit/qiskit","1.2.1","Qiskit  1.2.1","2024-09-12T11:14:48Z",False
+"Qiskit/qiskit","1.2.2","Qiskit  1.2.2","2024-09-20T13:16:35Z",False
+"Qiskit/qiskit","0.46.3","Qiskit  0.46.3","2024-09-23T09:58:02Z",False
+"Qiskit/qiskit","1.2.3","Qiskit  1.2.3","2024-10-02T16:52:57Z",False
+"Qiskit/qiskit","1.2.4","Qiskit  1.2.4","2024-10-03T18:55:21Z",False
+"Qiskit/qiskit","1.3.0rc1","Qiskit  1.3.0rc1","2024-11-07T22:34:54Z",True
+"Qiskit/qiskit","1.3.0rc2","Qiskit  1.3.0rc2","2024-11-20T20:39:16Z",True
+"Qiskit/qiskit","1.3.0","Qiskit  1.3.0","2024-11-28T15:30:17Z",False
+"Qiskit/qiskit","1.3.1","Qiskit  1.3.1","2024-12-12T19:58:29Z",False
+"Qiskit/qiskit","1.3.2","Qiskit  1.3.2","2025-01-20T11:21:52Z",False
+"Qiskit/qiskit","1.3.3","Qiskit  1.3.3","2025-02-20T10:37:02Z",False
+"Qiskit/qiskit","1.4.0","Qiskit  1.4.0","2025-02-21T09:01:59Z",False
+"Qiskit/qiskit","1.4.1","Qiskit  1.4.1","2025-03-06T12:28:44Z",False
+"Qiskit/qiskit","2.0.0rc1","Qiskit  2.0.0rc1","2025-03-10T12:42:23Z",True
+"Qiskit/qiskit","1.4.2","Qiskit  1.4.2","2025-03-14T14:27:00Z",False
+"Qiskit/qiskit","2.0.0rc2","Qiskit  2.0.0rc2","2025-03-14T17:50:50Z",True
+"Qiskit/qiskit","2.0.0","Qiskit  2.0.0","2025-03-31T19:17:28Z",False
+"Qiskit/qiskit","1.4.3","Qiskit  1.4.3","2025-05-09T14:27:36Z",False
+"Qiskit/qiskit","2.0.1","Qiskit  2.0.1","2025-05-16T15:42:25Z",False
+"Qiskit/qiskit","2.0.2","Qiskit  2.0.2","2025-05-27T19:08:39Z",False
+"Qiskit/qiskit","2.1.0rc1","Qiskit  2.1.0rc1","2025-06-05T18:38:48Z",True
+"Qiskit/qiskit","2.0.3","Qiskit  2.0.3","2025-06-17T12:30:15Z",False
+"Qiskit/qiskit","2.1.0","Qiskit  2.1.0","2025-06-19T08:14:04Z",False
+"Qiskit/qiskit","2.1.1","Qiskit  2.1.1","2025-07-10T20:05:52Z",False
+"Qiskit/qiskit","1.4.4","Qiskit  1.4.4","2025-08-15T16:13:59Z",False
+"Qiskit/qiskit","2.1.2","Qiskit  2.1.2","2025-08-19T11:40:10Z",False
+"Qiskit/qiskit","2.2.0b1","Qiskit  2.2.0b1","2025-08-28T18:24:52Z",True
+"Qiskit/qiskit","2.2.0rc1","Qiskit  2.2.0rc1","2025-09-04T19:31:01Z",True
+"Qiskit/qiskit","2.2.0","Qiskit  2.2.0","2025-09-18T20:55:51Z",False
+"Qiskit/qiskit","2.2.1","Qiskit  2.2.1","2025-09-26T05:49:54Z",False
+"Qiskit/qiskit","1.4.5","Qiskit  1.4.5","2025-10-13T11:07:03Z",False
+"Qiskit/qiskit","2.2.2","Qiskit  2.2.2","2025-10-22T11:37:15Z",False
+"Qiskit/qiskit","2.2.3","Qiskit  2.2.3","2025-10-30T13:03:35Z",False
+"Qiskit/qiskit","2.3.0rc1","Qiskit  2.3.0rc1","2025-12-11T23:24:50Z",True
+"Qiskit/qiskit","2.3.0","Qiskit  2.3.0","2026-01-08T18:23:01Z",False
+"Qiskit/qiskit","2.3.1","Qiskit  2.3.1","2026-03-12T23:34:25Z",False
+"Qiskit/qiskit","2.4.0rc1","Qiskit  2.4.0rc1","2026-03-19T19:44:10Z",True
+"Qiskit/qiskit","2.4.0rc2","Qiskit  2.4.0rc2","2026-03-27T11:11:48Z",True
+"Qiskit/qiskit","2.4.0rc3","Qiskit  2.4.0rc3","2026-04-07T19:50:37Z",True
+"Qiskit/qiskit","2.4.0","Qiskit  2.4.0","2026-04-16T15:46:27Z",False
+"Qiskit/qiskit","2.4.1","Qiskit  2.4.1","2026-04-24T19:17:49Z",False
+"Qiskit/qiskit","1.4.6","Qiskit  1.4.6","2026-06-12T17:37:39Z",False
+"Qiskit/qiskit","2.4.2","Qiskit  2.4.2","2026-06-12T17:39:03Z",False
+"Qiskit/qiskit","2.5.0rc1","Qiskit  2.5.0rc1","2026-06-18T21:16:53Z",True
+"Qiskit/qiskit","2.5.0","Qiskit  2.5.0","2026-07-02T18:51:37Z",False
+"Qiskit/qiskit","2.5.1","Qiskit  2.5.1","2026-07-23T17:09:41Z",False
+"Qiskit/qiskit","2.5.2","Qiskit  2.5.2","2026-08-13T17:49:55Z",False
+"Qiskit/qiskit","2.6.0rc1","Qiskit 2.6.0rc1","2026-10-13T21:45:06Z",True
+"Qiskit/qiskit","2.6.0","Qiskit  2.6.0","2026-10-16T12:04:54Z",False
+"Qiskit/qiskit","2.6.1","Qiskit  2.6.1","2026-10-22T20:34:43Z",False
+"quantumlib/Cirq","v0.1","Cirq v0.1","2018-04-17T16:38:18Z",False
+"quantumlib/Cirq","v0.3.0","Cirq v0.3","2018-07-18T06:43:32Z",False
+"quantumlib/Cirq","v0.3.1","Cirq v0.3.1","2018-07-18T22:42:06Z",False
+"quantumlib/Cirq","v0.4.0","Cirq v0.4.0","2018-11-30T01:47:36Z",False
+"quantumlib/Cirq","v0.5.0","Cirq v0.5.0","2019-04-24T03:23:46Z",False
+"quantumlib/Cirq","v0.6.0","Cirq v0.6.0","2019-10-30T21:48:36Z",False
+"quantumlib/Cirq","v0.7.0","Cirq v0.7.0","2020-01-18T00:50:43Z",False
+"quantumlib/Cirq","v0.8.0","Cirq v0.8.0","2020-05-04T18:27:50Z",False
+"quantumlib/Cirq","v0.8.1","Cirq v0.8.1","2020-06-03T21:28:21Z",False
+"quantumlib/Cirq","v0.8.2","Cirq v0.8.2","2020-07-14T17:54:32Z",False
+"quantumlib/Cirq","v0.9.0","Cirq v0.9.0","2020-10-01T21:47:58Z",False
+"quantumlib/Cirq","v0.9.1","Cirq v0.9.1","2020-10-02T22:50:41Z",False
+"quantumlib/Cirq","v0.10.0","Cirq v0.10.0","2021-03-05T23:32:04Z",False
+"quantumlib/Cirq","v0.11.0","Cirq v0.11.0 ","2021-05-11T20:58:10Z",False
+"quantumlib/Cirq","v0.11.1","v0.11.1","2021-07-26T19:17:34Z",False
+"quantumlib/Cirq","v0.12.0","v0.12.0","2021-08-11T22:05:18Z",False
+"quantumlib/Cirq","v0.13.0","v0.13.0","2021-10-15T19:21:43Z",False
+"quantumlib/Cirq","v0.13.1","Cirq v0.13.1","2021-10-26T18:07:36Z",False
+"quantumlib/Cirq","v0.14.0","Cirq v0.14.0","2022-03-24T08:30:41Z",False
+"quantumlib/Cirq","v0.14.1","Cirq v0.14.1","2022-04-11T02:09:25Z",False
+"quantumlib/Cirq","v0.15.0","Cirq v0.15.0","2022-06-29T18:07:42Z",False
+"quantumlib/Cirq","v1.0.0","Cirq v1.0.0","2022-07-18T22:34:18Z",False
+"quantumlib/Cirq","v1.1.0","Cirq v1.1.0","2022-12-20T23:28:52Z",False
+"quantumlib/Cirq","v1.2.0","v1.2.0","2023-07-18T17:50:48Z",False
+"quantumlib/Cirq","v1.3.0","v1.3.0","2023-12-01T22:10:24Z",False
+"quantumlib/Cirq","v1.4.0","v1.4.0","2024-05-30T04:28:27Z",False
+"quantumlib/Cirq","v1.4.1","v1.4.1","2024-06-27T00:46:34Z",False
+"quantumlib/Cirq","v1.5.0","v1.5.0","2025-04-10T18:51:34Z",False
+"quantumlib/Cirq","v1.6.0","v1.6.0","2025-07-23T04:43:29Z",False
+"quantumlib/Cirq","v1.6.1","v1.6.1","2025-08-14T03:26:44Z",False
+"quantumlib/Cirq","v1.7.0","v1.7.0","2026-06-30T18:44:40Z",False

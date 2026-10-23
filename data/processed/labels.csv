@@ -1,0 +1,263 @@
+﻿"repo","label","description","issues_count","prs_count","is_bug_label"
+"Qiskit/qiskit","bug","Something isn't working",2461,96,True
+"Qiskit/qiskit","type: enhancement","It's working, but needs polishing",763,107,False
+"Qiskit/qiskit","good first issue","Good for newcomers.  LLM use is not permitted.",501,2,False
+"Qiskit/qiskit","on hold","Can not fix yet",18,168,False
+"Qiskit/qiskit","theme: qa","Issues and PRs that relate to testing and code quality",116,794,False
+"Qiskit/qiskit","theme: documentation","Something is not clear or an error documentation",248,900,False
+"Qiskit/qiskit","help wanted","community contributions welcome. For filters like http://github-help-wanted.com/",92,0,False
+"Qiskit/qiskit","type: discussion","",119,10,False
+"Qiskit/qiskit","type: feature request","New feature or request",896,5,False
+"Qiskit/qiskit","type: epic","A theme of work that contain sub-tasks",70,0,False
+"Qiskit/qiskit","stable backport potential","Make Mergify open a backport PR to the most recent stable branch on merge.",44,1403,False
+"Qiskit/qiskit","theme: performance","",174,472,False
+"Qiskit/qiskit","Changelog: Deprecated","Add a ""Deprecated"" entry in the GitHub Release changelog.",1,225,False
+"Qiskit/qiskit","Changelog: Added","Add an ""Added"" entry in the GitHub Release changelog.",3,1148,False
+"Qiskit/qiskit","Changelog: Changed","Add a ""Changed"" entry in the GitHub Release changelog.",0,301,False
+"Qiskit/qiskit","Changelog: Removed","Add a ""Removed"" entry in the GitHub Release changelog.",2,165,False
+"Qiskit/qiskit","Changelog: Fixed","Add a ""Fixed"" entry in the GitHub Release changelog.",0,1781,False
+"Qiskit/qiskit","short project","",39,1,False
+"Qiskit/qiskit","mod: qasm2","Relating to OpenQASM 2 import or export",59,64,False
+"Qiskit/qiskit","conflicts","used by mergify when there are conflicts in a port",0,80,False
+"Qiskit/qiskit","mod: quantum info","Related to the Quantum Info module (States & Operators)",83,215,False
+"Qiskit/qiskit","Changelog: None","Do not include in the GitHub Release changelog.",3,3667,False
+"Qiskit/qiskit","mod: synthesis","",109,153,False
+"Qiskit/qiskit","mod: qpy","Related to QPY serialization",83,133,False
+"Qiskit/qiskit","Rust","This PR or issue is related to Rust code in the repository",178,946,False
+"Qiskit/qiskit","dependencies","Pull requests that update a dependency file",1,375,False
+"Qiskit/qiskit","mod: primitives","Related to the Primitives module",69,188,False
+"Qiskit/qiskit","QAMP","issues and PRs relating to Qiskit Advocates Mentorship Program",2,12,False
+"Qiskit/qiskit","unitaryhack","Issues/PR participating (now or in the past) in the UnitaryHack event see https://unitaryhack.dev/",3,11,False
+"Qiskit/qiskit","Community PR","PRs from contributors that are not 'members' of the Qiskit repo",0,1241,False
+"Qiskit/qiskit","Intern PR","PR submitted by IBM Quantum interns",0,47,False
+"Qiskit/qiskit","mod: visualization","qiskit.visualization",40,105,False
+"Qiskit/qiskit","mod: transpiler","Issues and PRs related to Transpiler",181,531,False
+"Qiskit/qiskit","mod: qasm3","Related to OpenQASM 3 import or export",32,50,False
+"Qiskit/qiskit","mod: circuit","Related to the core of the `QuantumCircuit` class or the circuit library",59,283,False
+"Qiskit/qiskit","affects extended support","This issue (also) affects extended support",11,22,False
+"Qiskit/qiskit","ci: test wheels","Run the wheel-build scripts as an additional CI run for this PR",0,72,False
+"Qiskit/qiskit","theme: C API","Related to the C API",81,221,False
+"Qiskit/qiskit","theme: fault tolerance","related to fault tolerance compilation",35,66,False
+"Qiskit/qiskit","Changelog: Build","Add a ""Build System"" entry in the GitHub Release changelog.",0,17,False
+"Qiskit/qiskit","Changelog: Performance","Performance improvements without API and semantic changes.",1,36,False
+"Qiskit/qiskit","mod: providers","Related to the backend and job abstractions",17,27,False
+"Qiskit/qiskit","reno spellchecker","",0,0,False
+"Qiskit/qiskit","mod: MIR","Related to Qiskit MIR",0,12,False
+"Qiskit/qiskit","core team","Not accepting PRs from external contributors. Discussion is still welcome.",23,0,False
+"quantumlib/Cirq","good first issue","This issue can be resolved by someone who is not familiar with the codebase. A good starting issue.",265,1,False
+"quantumlib/Cirq","help wanted","Contributions welcome!",42,0,False
+"quantumlib/Cirq","cla: yes","Makes googlebot stop complaining.",0,2727,False
+"quantumlib/Cirq","cla: no","",0,53,False
+"quantumlib/Cirq","automerge","Tells CirqBot to sync and merge this PR. (If it's running.)",0,96,False
+"quantumlib/Cirq","BREAKING CHANGE","For pull requests that are important to mention in release notes.",5,88,False
+"quantumlib/Cirq","Ready for Re-Review","For when reviewers take their time.",0,31,False
+"quantumlib/Cirq","good part-time project","A meaty non-urgent issue with a substantial amount of work to be done.",51,0,False
+"quantumlib/Cirq","front_of_queue_automerge","CirqBot uses this label to indicate (and remember) what's being merged next.",0,36,False
+"quantumlib/Cirq","no QC knowledge needed","Want to contribute to Cirq, but don't know quantum computing? This issue is for you.",120,1,False
+"quantumlib/Cirq","triage/discuss","Needs decision / discussion, bring these up during Cirq Cynque",123,14,False
+"quantumlib/Cirq","kind/bug-report","Something doesn't seem to work.",538,9,True
+"quantumlib/Cirq","kind/feature-request","Describes new functionality",416,0,False
+"quantumlib/Cirq","kind/question","A question about usage / quantum computing / etc. Should typically go on QC Stack Exchange",15,1,False
+"quantumlib/Cirq","kind/health","For CI/testing/release process/refactoring/technical debt items",346,278,False
+"quantumlib/Cirq","roadmap","for higher level roadmap items to capture conversations and feedback (not for project tracking)",39,0,False
+"quantumlib/Cirq","kind/task","A task that's part of a larger effort",73,1,False
+"quantumlib/Cirq","triage/accepted","A consensus emerged that this bug report, feature request, or other action should be worked on",828,4,False
+"quantumlib/Cirq","triage/needs-reproduction","[Bugs reports] The bug or problem has not been reproduced yet",15,0,False
+"quantumlib/Cirq","triage/needs-feasibility","[Feature requests] Needs design work to prove feasibility before accepting",24,0,False
+"quantumlib/Cirq","triage/needs-more-evidence","[Feature requests] Seems plausible, but maintainers are not convinced about the use cases yet",64,3,False
+"quantumlib/Cirq","triage/duplicate","This issue or pull request is addressed by another issue or pull request",12,1,False
+"quantumlib/Cirq","area/experiments","",13,1,False
+"quantumlib/Cirq","area/examples","",15,0,False
+"quantumlib/Cirq","area/parameters","parameter resolution, parameterized gates, operations",33,2,False
+"quantumlib/Cirq","area/gates","",95,3,False
+"quantumlib/Cirq","area/interop","",33,1,False
+"quantumlib/Cirq","area/channels","",28,0,False
+"quantumlib/Cirq","area/placement","",1,0,False
+"quantumlib/Cirq","area/devices","",29,0,False
+"quantumlib/Cirq","area/workflow","",3,22,False
+"quantumlib/Cirq","area/hilbert-space","",0,0,False
+"quantumlib/Cirq","area/variational","",4,0,False
+"quantumlib/Cirq","area/classical","",15,0,False
+"quantumlib/Cirq","area/classical/data","",1,0,False
+"quantumlib/Cirq","area/classical/control","",12,3,False
+"quantumlib/Cirq","area/classical/measurements","",3,0,False
+"quantumlib/Cirq","area/circuits","",68,6,False
+"quantumlib/Cirq","area/visualization","",54,3,False
+"quantumlib/Cirq","area/result","",12,0,False
+"quantumlib/Cirq","area/simulation","",80,1,False
+"quantumlib/Cirq","area/gate-compilation","",18,0,False
+"quantumlib/Cirq","area/gatesets","",19,0,False
+"quantumlib/Cirq","area/decompose","",14,0,False
+"quantumlib/Cirq","area/qis","",14,0,False
+"quantumlib/Cirq","area/google","",57,0,False
+"quantumlib/Cirq","area/transformers","",64,6,False
+"quantumlib/Cirq","area/ci","",40,14,False
+"quantumlib/Cirq","area/testing","",46,3,False
+"quantumlib/Cirq","area/cleancode","",10,2,False
+"quantumlib/Cirq","area/devops","Involving development tools, procedures, documentation, services, and so on",9,2,False
+"quantumlib/Cirq","area/tech-debt","",1,0,False
+"quantumlib/Cirq","complexity/low","introduces/modifies 1-2 concepts, should take 1-2 days max for an advanced contributor",47,0,False
+"quantumlib/Cirq","complexity/medium","introduces/modifies 3-5 concepts, takes max up to a month for an advanced contributor",54,0,False
+"quantumlib/Cirq","complexity/high","introduces/modifies 6+ concepts or touches Cirq core concepts or > 1 month for an expert",12,0,False
+"quantumlib/Cirq","area/sphinx","",2,0,False
+"quantumlib/Cirq","area/qudits","",8,0,False
+"quantumlib/Cirq","area/paulis","",40,2,False
+"quantumlib/Cirq","area/dependencies","",22,290,False
+"quantumlib/Cirq","area/flaky-tests","",12,1,False
+"quantumlib/Cirq","area/numpy","",16,7,False
+"quantumlib/Cirq","area/protocols","",27,0,False
+"quantumlib/Cirq","kind/deprecation","",15,5,False
+"quantumlib/Cirq","area/contrib","",14,0,False
+"quantumlib/Cirq","area/samplers","",6,0,False
+"quantumlib/Cirq","area/distance-measures","",2,0,False
+"quantumlib/Cirq","area/cirqbot","",13,1,False
+"quantumlib/Cirq","area/quantum-platforms","",1,0,False
+"quantumlib/Cirq","area/packages","",15,2,False
+"quantumlib/Cirq","area/site","",15,0,False
+"quantumlib/Cirq","area/noise","",14,0,False
+"quantumlib/Cirq","area/linalg","",8,1,False
+"quantumlib/Cirq","area/serialization","",38,0,False
+"quantumlib/Cirq","area/performance","",58,24,False
+"quantumlib/Cirq","area/tags","",16,0,False
+"quantumlib/Cirq","area/qasm","",33,5,False
+"quantumlib/Cirq","area/expectation-value","",9,21,False
+"quantumlib/Cirq","area/measurements","",49,0,False
+"quantumlib/Cirq","area/tensor-product","",1,0,False
+"quantumlib/Cirq","area/routing","",8,0,False
+"quantumlib/Cirq","area/states","",5,0,False
+"quantumlib/Cirq","priority/p2","Next release should contain it",34,0,False
+"quantumlib/Cirq","skill/experienced","Needs experience with Cirq development",60,0,False
+"quantumlib/Cirq","skill/beginner","Zero to little experience with Cirq required",24,0,False
+"quantumlib/Cirq","skill/expert","Needs deep expertise with Cirq and Cirq development",21,0,False
+"quantumlib/Cirq","area/clifford-optimizer","",5,0,False
+"quantumlib/Cirq","area/latex","",5,1,False
+"quantumlib/Cirq","area/docstrings","",15,1,False
+"quantumlib/Cirq","area/density-matrix-simulator","",9,0,False
+"quantumlib/Cirq","area/typecheck","",16,3,False
+"quantumlib/Cirq","area/json","",22,0,False
+"quantumlib/Cirq","area/tomography","",3,0,False
+"quantumlib/Cirq","area/google/engine","",27,2,False
+"quantumlib/Cirq","area/svg","",1,0,False
+"quantumlib/Cirq","area/google/placement","",2,1,False
+"quantumlib/Cirq","area/google/calibrations","",5,0,False
+"quantumlib/Cirq","area/qubits","",10,0,False
+"quantumlib/Cirq","status/needs-agreed-design","We want to do this, but it needs an agreed upon design before implementation",75,1,False
+"quantumlib/Cirq","area/releases","",9,4,False
+"quantumlib/Cirq","good for learning","For beginners in QC, this will help picking up some knowledge. Bit harder than ""good first issues""",65,1,False
+"quantumlib/Cirq","area/google/optimizers","",4,0,False
+"quantumlib/Cirq","area/batching","",5,0,False
+"quantumlib/Cirq","status/blocked","This PR is blocked on another issue",0,1,False
+"quantumlib/Cirq","area/clifford-simulator","",8,0,False
+"quantumlib/Cirq","area/async","",2,3,False
+"quantumlib/Cirq","area/google/job","",4,0,False
+"quantumlib/Cirq","area/google/processor","",2,0,False
+"quantumlib/Cirq","priority/p3","Should be done in the next 6 months",24,2,False
+"quantumlib/Cirq","area/docker","",4,1,False
+"quantumlib/Cirq","area/kak-decomposition","",1,0,False
+"quantumlib/Cirq","area/ecosystem","",7,0,False
+"quantumlib/Cirq","area/imports","",11,0,False
+"quantumlib/Cirq","area/protocols/mixtures","",7,0,False
+"quantumlib/Cirq","area/contrib/acquaintance","",2,0,False
+"quantumlib/Cirq","area/state-vector-simulator","",2,0,False
+"quantumlib/Cirq","area/optimization","Numerical optimization",3,0,False
+"quantumlib/Cirq","area/protocols/unitary","",6,0,False
+"quantumlib/Cirq","area/moments","",7,1,False
+"quantumlib/Cirq","priority/p1","This is something that should get done soon, e.g. within a month.",39,3,False
+"quantumlib/Cirq","area/noise-models","",8,0,False
+"quantumlib/Cirq","area/contrib/graphdevice","",1,0,False
+"quantumlib/Cirq","status/rfc-proposed","This has an RFC document associated with it.",7,0,False
+"quantumlib/Cirq","area/partial-trace","",1,0,False
+"quantumlib/Cirq","area/quantum-volume","",1,0,False
+"quantumlib/Cirq","area/quil","",4,1,False
+"quantumlib/Cirq","kind/design-issue","A conversation around design",131,0,False
+"quantumlib/Cirq","area/xeb","",10,20,False
+"quantumlib/Cirq","area/protocols/num_qubits","",1,0,False
+"quantumlib/Cirq","area/t1-decay","",1,0,False
+"quantumlib/Cirq","area/differentiation","",1,0,False
+"quantumlib/Cirq","area/machine-learning","",1,0,False
+"quantumlib/Cirq","platform/windows","",5,0,False
+"quantumlib/Cirq","platform/mac","",3,0,False
+"quantumlib/Cirq","area/code-samples","",2,0,False
+"quantumlib/Cirq","area/faq","",1,0,False
+"quantumlib/Cirq","interface/cirq-aqt","",3,0,False
+"quantumlib/Cirq","area/qcircuit","",3,0,False
+"quantumlib/Cirq","area/linear-operators","",2,0,False
+"quantumlib/Cirq","architecture/ion-trap","Ion trap quantum computer related issues",5,0,False
+"quantumlib/Cirq","area/permutation-gate","",1,0,False
+"quantumlib/Cirq","area/images","",1,0,False
+"quantumlib/Cirq","area/formatting","",7,3,False
+"quantumlib/Cirq","area/projectors","",1,0,False
+"quantumlib/Cirq","area/subcircuits","",21,3,False
+"quantumlib/Cirq","area/debugging","",3,0,False
+"quantumlib/Cirq","priority/p0","Needs urgent attention and a hotfix release – it is breaking the majority of users",23,8,False
+"quantumlib/Cirq","area/post-selection","",1,0,False
+"quantumlib/Cirq","area/best-practices","",4,2,False
+"quantumlib/Cirq","area/eigengate","",3,0,False
+"quantumlib/Cirq","area/decomposition","",12,2,False
+"quantumlib/Cirq","area/github","",10,36,False
+"quantumlib/Cirq","interface/cirq-ionq","",4,4,False
+"quantumlib/Cirq","area/product-states","",3,0,False
+"quantumlib/Cirq","area/protocols/commutes","",3,0,False
+"quantumlib/Cirq","area/docs","",130,90,False
+"quantumlib/Cirq","status/rfc-needed","This needs an RFC document.",9,0,False
+"quantumlib/Cirq","area/python","",18,86,False
+"quantumlib/Cirq","area/operators","",8,0,False
+"quantumlib/Cirq","area/checks","",4,0,False
+"quantumlib/Cirq","area/contrib/quimb","",3,1,False
+"quantumlib/Cirq","area/pylint","",4,0,False
+"quantumlib/Cirq","area/notebook-testing","",9,7,False
+"quantumlib/Cirq","area/chemistry","",1,0,False
+"quantumlib/Cirq","area/parallel-gate-operation","",2,0,False
+"quantumlib/Cirq","area/google/erp","This impacts participants of the Google Early Access Program",5,0,False
+"quantumlib/Cirq","area/diagonal-gate","",3,0,False
+"quantumlib/Cirq","triage/wont-fix","Decided against going forward with this",36,0,False
+"quantumlib/Cirq","area/codeowners","",2,0,False
+"quantumlib/Cirq","area/colab","",5,0,False
+"quantumlib/Cirq","area/equals-tester","",3,0,False
+"quantumlib/Cirq","area/clifford-group","",8,1,False
+"quantumlib/Cirq","area/platforms","",1,0,False
+"quantumlib/Cirq","area/tutorials","",11,1,False
+"quantumlib/Cirq","area/calibration","",3,1,False
+"quantumlib/Cirq","area/global-phase-operation","",2,0,False
+"quantumlib/Cirq","area/install","",8,0,False
+"quantumlib/Cirq","area/coverage","",1,0,False
+"quantumlib/Cirq","area/state-prep","",3,0,False
+"quantumlib/Cirq","area/google/protos","",5,2,False
+"quantumlib/Cirq","area/typescript","",4,2,False
+"quantumlib/Cirq","area/contrib/quirk","",1,0,False
+"quantumlib/Cirq","area/google/device","",3,0,False
+"quantumlib/Cirq","Size: XS","<10 lines changed",0,714,False
+"quantumlib/Cirq","size: XL","lines changed >1000",0,142,False
+"quantumlib/Cirq","size: L","250< lines changed <1000",0,431,False
+"quantumlib/Cirq","size: M","50< lines changed <250",0,773,False
+"quantumlib/Cirq","size: S","10< lines changed <50",1,834,False
+"quantumlib/Cirq","area/3d-circuits","",1,0,False
+"quantumlib/Cirq","interface/cirq-web","",7,2,False
+"quantumlib/Cirq","area/javascript","Pull requests that update Javascript code",0,166,False
+"quantumlib/Cirq","ANNOUNCE CHANGE","For pull requests that are not breaking, but still important to mention in release notes.",0,2,False
+"quantumlib/Cirq","area/cirq-ft","Issues related to the Cirq-FT sub-package",8,23,False
+"quantumlib/Cirq","area/cirq-ft/algos","",0,0,False
+"quantumlib/Cirq","area/google/qrp","Related to external worklflow support",1,0,False
+"quantumlib/Cirq","unitaryHACK","",7,7,False
+"quantumlib/Cirq","status/stale","Closed due to inactivity for an extended period of time",62,50,False
+"quantumlib/Cirq","interface/cirq-pasqal","",1,1,False
+"quantumlib/Cirq","interface/cirq-google","",0,0,False
+"quantumlib/Cirq","interface/cirq-rigetti","",3,2,False
+"quantumlib/Cirq","area/accuracy","",3,0,False
+"quantumlib/Cirq","status/rfc-needs-sponsor","The RFC needs a Cirq maintainer to sponsor it.",0,0,False
+"quantumlib/Cirq","area/error-mitigation","",1,0,False
+"quantumlib/Cirq","triage/works-as-expected","The behavior or property in question is expected or known.",1,0,False
+"quantumlib/Cirq","priority/review","Reassess the priority of this item at the next opportunity.",16,1,False
+"quantumlib/Cirq","priority/for-2.0","Ideas, plans, proposed incompatible changes that should be considered for next major version",3,1,False
+"quantumlib/Cirq","status/awaiting-response","Waiting on a response from someone",6,10,False
+"quantumlib/Cirq","status/on-hold","dependabot PR to be revisited early next month (remove label when fixed)",0,2,False
+"quantumlib/Cirq","triage/off-topic","An issue or PR that is not relevant to this repository for Cirq",4,0,False
+"quantumlib/Cirq","ci/no-release","Use this label for pull request that should not have Cirq pre-release on PyPI.",0,99,False
+"quantumlib/Cirq","status/autoclosed","Automatically closed (e.g., due to being stale)",0,4,False
+"quantumlib/Cirq","priority/before-1.8","Leave for after the Cirq 1.7 release",21,10,False
+"quantumlib/Cirq","priority/after-1.8","Deferred until after the Cirq 1.8 release",1,7,False
+"quantumlib/Cirq","area/cirq-2.0","Concerns Cirq 2.0 development",8,2,False
+"quantumlib/Cirq","skill/maintainer","A Cirq maintainer needs to handle this",15,0,False
+"quantumlib/Cirq","status/no-response","Author has not responded to previous request",0,3,False
+"quantumlib/Cirq","priority/after-2.0","Ideas, plans, and proposals that are best left until after Cirq 2.0 has been released",0,0,False
+"quantumlib/Cirq","platform/colab","Platform: Google Colab",0,0,False
